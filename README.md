@@ -1,2 +1,2 @@
 # PublicData
-Visualize public data such as crime rate, income, education on a map
+Visualize public data such as crime rate, income, ACT scores on a map
